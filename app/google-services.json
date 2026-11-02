@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "172203820584",
+    "firebase_url": "https://br-auto-reply-default-rtdb.firebaseio.com",
+    "project_id": "br-auto-reply",
+    "storage_bucket": "br-auto-reply.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172203820584:web:ea705e23457ba66d43571d",
+        "android_client_info": {
+          "package_name": "com.bizryno.autoreply"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkCvCfzL3PM2eLjoVaXBlF7E0aoJmFn88"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": "1"
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "BizRyno Auto Reply",
+  "description": "Your AI sales assistant, replying while you sleep on WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
